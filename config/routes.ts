@@ -11,7 +11,7 @@ export default [
     component: './Index' },
   {
     path: '/interface_info/:id',
-    name: 'interface_info',
+    name: '接口信息',
     component: './InterfaceInfo',
     hideInMenu: true,
   },
